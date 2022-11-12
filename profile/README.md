@@ -1,4 +1,4 @@
-# 🍌 Banana's Inc
+# 🍌 Banana Inc
 
 Welcome! This organization serves to group all future projects.
 
